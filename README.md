@@ -1,17 +1,8 @@
-# basicapp
+<h2>DEMO VIDEO</h2>
 
-A new Flutter project.
+<video src="https://github.com/Krunxx/form-and-routing/assets/82696971/55941ca8-2003-4263-b070-c5c7b3c92d4c" controls>
+  Your browser does not support the video tag.
+</video>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# form-and-routing
